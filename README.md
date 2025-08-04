@@ -1,2 +1,3 @@
 # flask_mi_app
-Aplicacion basica flask y python
+Aplicacion web basica flask y python
+Desarrollo para el curso de programacion de lenguajes uf467
